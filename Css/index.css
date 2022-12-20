@@ -223,7 +223,7 @@ h1{
   margin-left: 5px;
   display: flex;
   flex-direction: column;
-  width: 600px;
+  width: 100%;
   align-items: center;
   text-align: center;
 }
@@ -302,10 +302,3 @@ button:hover span::before, button:hover span::after{
   height: 100%;
 }}
  
-
-
-@media only screen and (min-width: 600px) {
-
-  
-
-}
